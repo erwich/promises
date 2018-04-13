@@ -1,0 +1,23 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "Fun exercises with JS promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erwich/promises.git"
+  },
+  "author": "Eric R. Wich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erwich/promises/issues"
+  },
+  "homepage": "https://github.com/erwich/promises#readme",
+  "dependencies": {
+    "promise": "^8.0.1"
+  }
+}
